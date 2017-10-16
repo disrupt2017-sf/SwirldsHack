@@ -75,7 +75,7 @@ public class HelloSwirldDemoMain implements SwirldMain {
 		platform.setSleepAfterSync(sleepPeriod);
 	}
 
-	public static final int PORT = 9111;
+	public static final int PORT = 9112;
 	
 	private static int ignoreCount = 0;
 
